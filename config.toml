@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
-title = "Bookworm - Personal Blog Template"
+baseURL = "https://topsedu.netlify.app/"
+title = "獺知美語 | Music Together at Tops Education"
 theme = "bookworm-light"
 # post pagination
 paginate = "5"
@@ -69,13 +69,14 @@ black = "#000000"
 dark = "#152035"
 gray = "#747577"
 light = "#FAFAFA"
-color_primary = "#01AD9F"
+color_primary = "#69d8de" # "#01AD9F"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "200px"
-favicon = "images/favicon.png"
+logo = "images/logo.svg"
+logo_width = "240px"
+# favicon = "images/favicon.png"
+
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -130,10 +131,10 @@ name = "Contact"
 url = "contact/"
 weight = 4
   
-[[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
-weight = 5
+# [[menu.main]]
+# name = "Buy Premium"
+# url = "https://gethugothemes.com/products/bookworm/"
+# weight = 5
 
 [[menu.main]]
 weight = 6
@@ -201,16 +202,24 @@ weight = 4
 # Social Icons
 [[params.social]]
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-url = "https://www.facebook.com/"
+url = "https://facebook.com/tops.edu.tw"
 
-[[params.social]]
-icon = "lab la-twitter" # https://icons8.com/line-awesome
-url = "https://www.twitter.com/"
+# [[params.social]]
+# icon = "lab la-twitter" # https://icons8.com/line-awesome
+# url = "https://www.twitter.com/"
 
 [[params.social]]
 icon = "lab la-instagram" # https://icons8.com/line-awesome
-url = "https://www.instagram.com/"
+url = "https://instagram.com/tops.edu.tw"
+
+# [[params.social]]
+# icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+# url = "https://www.linkedin.com/"
 
 [[params.social]]
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-url = "https://www.linkedin.com/"
+icon = "lab la-line" # https://icons8.com/line-awesome
+url = "https://lin.ee/g71kPqT"
+
+[[params.social]]
+icon = "lab la-google" # https://icons8.com/line-awesome
+url = "https://goo.gl/maps/hyeR18dCxykefr3g6"
