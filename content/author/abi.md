@@ -7,7 +7,7 @@ draft: false
 social:
 - icon: "la-facebook-f"
   link: "https://facebook.com/tops.edu.tw"
-- icon: "la-instagram-in"
+- icon: "la-instagram"
   link: "https://instagram.com/tops.edu.tw"
 ---
 
