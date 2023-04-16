@@ -114,6 +114,9 @@ input_placeholder = "Enter your email"
 enable = false
 expire_days = 2
 
+# Google map
+[params.googleMapsAPIKey]
+googleMapsAPIKey = "AIzaSyD9-9N7Bp9cE3BO3CnBroA1IdWiqNpKEj8"
 
 ############################# Main Menu ########################
 [[menu.main]]
